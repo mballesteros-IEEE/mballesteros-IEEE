@@ -1,6 +1,3 @@
-# Cybersec
-Proyectos de Ciberseguridad en los que he colaborado
-
 ## Bienvenido👋
 
 Soy Manuel Ballesteros, ingeniero SCADA y Ciberseguridad Industrial, con experiencia en energía renovable y en Oil/Gas. También tengo máster oficial en ciberseguridad y estoy estudiando un doctorado, en el que me he dedicado al ámbito de las tecnologías de la Operación (OT), IEC 62443, automatización e industria 4.0. Además, ostento el cargo de director de la sociedad española de Aplicaciones Industriales y Sistemas de Control del IEEE. Actualmente soy profesor de Sistemas Electrónicos en IES Pacífico, así como responsable de ciberseguridad en Siemens Gamesa.  
@@ -12,8 +9,8 @@ Soy Manuel Ballesteros, ingeniero SCADA y Ciberseguridad Industrial, con experie
 * Ingeniero SCADA en Siemens-Gamesa (2018 -2022): Desarrollo dentro de sistemas de supervisión y control instalados en plantas híbridas (turbinas eólicas y paneles solares).
 * Ingeniero de Control en AVEVA (2018): Desarrollo de sistemas de control industrial instalados en oleoductos y gasoductos. Tecnologías utilizadas: Ciberseguridad, SQL Server, C#, Computación en la Nube, Sistemas Críticos.
 * Ingeniero de Investigación y Desarrollo en RF Explorer (2015-2017). Diseño de Hardware de Microondas y Radiofrecuencia en diferentes proyectos actualmente disponibles en el mercado → Arduino/Raspberry IoT, Analizador de Espectro, Antenas EMC, Generador de Señales y Mezclador RF con LNA. Diseño de todo el ciclo de producción de dispositivos electrónicos.
-* Ingeniero de Software en Accenture (2014-2015). Desarrollador en Java y Oracle. Tecnologías utilizadas (SOA, MAVEN, SPRING), gestión (GIT / Stash) e integración continua (Bamboo).
-* Ingeniero Electromédico en el Hospital Universitario de Getafe por la empresa Imtech (2013) realizando la planificación e implementación de tratamientos correctivos y preventivos de todos los sistemas médicos.
+* Ingeniero de Software en Accenture (2014-2015).
+* Ingeniero Electromédico en el Hospital Universitario de Getafe (2013).
 
 ## :prize: Logros
 
@@ -26,7 +23,7 @@ Soy Manuel Ballesteros, ingeniero SCADA y Ciberseguridad Industrial, con experie
 
 ## :computer: Tecnologias que conozco
 
-![C++](https://img.shields.io/badge/-C++-1F2756?logo=C++&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-1F2756?logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/-.NET-007396?logo=csharp&logoColor=white)
 ![Electronic](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google&logoColor=white)
 ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -45,7 +42,7 @@ Soy Manuel Ballesteros, ingeniero SCADA y Ciberseguridad Industrial, con experie
 ![DevSecOps](https://img.shields.io/badge/-DevSecOps-478CBF?logo=ieee&logoColor=white)
 
 ## :mailbox: Como contactarme
-[<img align="left" alt="LinkedIn" width="40px" src="img/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="40px" src="linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/manuel-ballesteros/
 
