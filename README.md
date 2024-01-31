@@ -2,26 +2,23 @@
 
 Soy Manuel Ballesteros, ingeniero SCADA y Ciberseguridad Industrial, con experiencia en energía renovable y en Oil/Gas. 
 Actualmente soy profesor de Sistemas Electrónicos en IES Pacífico, así como responsable de ciberseguridad en Siemens Gamesa.  
-También tengo máster oficial en ciberseguridad y estoy estudiando un doctorado, en el que me he dedicado al ámbito de las tecnologías de la Operación (OT), IEC 62443, automatización e industria 4.0. Además, ostento el cargo de director de la sociedad española de Aplicaciones Industriales y Sistemas de Control del IEEE.
+También tengo máster oficial en ciberseguridad y estoy estudiando un doctorado, en el que me he dedicado al ámbito de las tecnologías de la Operación (OT), IEC 62443, automatización e industria 4.0. 
 
 ## :briefcase: Ingenieria
 
-* Ingeniero en Ciberseguridad ICS/OT en Siemens-Gamesa (2023): Seguridad, Hacking Ético, DevSecOps y respuesta a incidentes dentro de sistemas de supervisión y control instalados en plantas híbridas (turbinas eólicas y paneles solares). Tecnologías utilizadas: Framework .NET, Modbus/OPC, C++, Computación en la Nube, PostgreSQL.
-* Profesor en Educación Superior en Escuela Pública (2023): Módulos en Ciberseguridad Industrial, Sistemas de Comunicación por Radio, Electrónica Industrial y Programación. También actuando como mentor para prácticas de formación en centros de trabajo. Recibió el Premio a la Excelencia Docente en marzo de 2023.
+* Ingeniero en Ciberseguridad ICS/OT en Siemens-Gamesa (2023): Seguridad, Hacking Ético, DevSecOps y respuesta a incidentes dentro de sistemas de supervisión y control instalados en plantas híbridas (turbinas eólicas y paneles solares).
+* Profesor en Educación Superior en Escuela Pública (2023): Módulos en Sistemas de Comunicación por Radio y Electrónica Industrial. También mentor para prácticas de formación en centros de trabajo. Recibí Premio a la Excelencia Docente en marzo de 2023.
 * Ingeniero SCADA en Siemens-Gamesa (2018 -2022): Desarrollo dentro de sistemas de supervisión y control instalados en plantas híbridas (turbinas eólicas y paneles solares).
-* Ingeniero de Control en AVEVA (2018): Desarrollo de sistemas de control industrial instalados en oleoductos y gasoductos. Tecnologías utilizadas: Computación en la Nube, Sistemas Críticos.
-* Ingeniero de Investigación y Desarrollo en RF Explorer (2015-2017). Diseño de Hardware de Microondas y Radiofrecuencia en diferentes proyectos actualmente disponibles en el mercado → Arduino/Raspberry IoT, Analizador de Espectro, Antenas EMC, Generador de Señales y Mezclador RF con LNA. Diseño de todo el ciclo de producción de dispositivos electrónicos.
-* Ingeniero de Software en Accenture (2014-2015).
-* Ingeniero Electromédico en el Hospital Universitario de Getafe (2013).
+* Ingeniero de Control en AVEVA (2018): Desarrollo de sistemas de control industrial instalados en oleoductos y gasoductos
+* Investigación y Desarrollo en RF Explorer (2015-2017). Diseño de Hardware de Microondas y Radiofrecuencia en diferentes proyectos actualmente disponibles en el mercado 
+* Ingeniero de Software en Accenture (2014-2015) y Ingeniero Electromédico en el Hospital Universitario de Getafe (2013).
 
 ## :rocket: Logros
 
-* Director en España de la Sociedad de Aplicaciones Industriales y Sistemas de Control.
+* Director de la sociedad española de Aplicaciones Industriales y Sistemas de Control.
 * Presidente en Europa del Grupo de Jóvenes Profesionales (YP AG) del Instituto de Ingenieros Eléctricos y Electrónicos.
 * Representante de España en el Congreso de Secciones del IEEE (Australia).
-* Organizador del congreso internacional de jóvenes profesionales (2015) en la Universidad de Alcalá de Henares y WESYP en Valencia (noviembre de 2017).
 * Participante en concurso de televisión - "Saber y Ganar" - 14 programas.
-
 
 ## :computer: Tecnologias que conozco
 
