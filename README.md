@@ -4,16 +4,16 @@ Soy Manuel Ballesteros, ingeniero SCADA y Ciberseguridad Industrial, con experie
 Actualmente soy profesor de Sistemas Electrónicos en IES Pacífico, así como responsable de ciberseguridad en Siemens Gamesa.  
 También tengo máster oficial en ciberseguridad y estoy con doctorado dedicado a tecnologías de la Operación (OT), IEC 62443, automatización e industria 4.0. 
 
+## :rocket: Logros
+
+* Director de la sociedad española de Aplicaciones Industriales y Sistemas de Control.
+* Presidente en Europa del Grupo de Jóvenes Profesionales (YP AG) del Instituto de Ingenieros Eléctricos y Electrónicos.
+* Participante en concurso de televisión - "Saber y Ganar" - 14 programas.
+  
 ## :briefcase: Ingenieria
 
 * Ingeniero en Ciberseguridad ICS/OT en Siemens-Gamesa: Seguridad, Hacking Ético, DevSecOps y respuesta a incidentes dentro de sistemas de supervisión y control instalados en plantas híbridas (turbinas eólicas y paneles solares).
 * Profesor en Educación Superior en Escuela Pública: Módulos en Sistemas de Radiocomunicación y Electrónica Industrial. También mentor para prácticas de formación en centros de trabajo.
-
-## :rocket: Logros
-
-* Director de la sociedad española de Aplicaciones Industriales y Sistemas de Control.
-* CandidatoPresidente en Europa del Grupo de Jóvenes Profesionales (YP AG) del Instituto de Ingenieros Eléctricos y Electrónicos.
-* Participante en concurso de televisión - "Saber y Ganar" - 14 programas.
 
 ## :computer: Tecnologias que conozco
 
