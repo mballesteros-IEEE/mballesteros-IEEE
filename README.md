@@ -6,17 +6,13 @@ También tengo máster oficial en ciberseguridad y estoy con doctorado dedicado 
 
 ## :briefcase: Ingenieria
 
-* Ingeniero en Ciberseguridad ICS/OT en Siemens-Gamesa (2024): Seguridad, Hacking Ético, DevSecOps y respuesta a incidentes dentro de sistemas de supervisión y control instalados en plantas híbridas (turbinas eólicas y paneles solares).
-* Profesor en Educación Superior en Escuela Pública (2023): Módulos en Sistemas de Radiocomunicación y Electrónica Industrial. También mentor para prácticas de formación en centros de trabajo. Recibí Premio a la Excelencia Docente en marzo de 2023.
-* Ingeniero SCADA en Siemens-Gamesa (2018 -2022)
-* Ingeniero de Control en AVEVA (2018)
-* Investigación y Desarrollo en RF Explorer (2015-2017)
-* Ingeniero de Software en Accenture (2014-2015) y Ingeniero Electromédico en el Hospital Universitario de Getafe (2013).
+* Ingeniero en Ciberseguridad ICS/OT en Siemens-Gamesa: Seguridad, Hacking Ético, DevSecOps y respuesta a incidentes dentro de sistemas de supervisión y control instalados en plantas híbridas (turbinas eólicas y paneles solares).
+* Profesor en Educación Superior en Escuela Pública: Módulos en Sistemas de Radiocomunicación y Electrónica Industrial. También mentor para prácticas de formación en centros de trabajo.
 
 ## :rocket: Logros
 
 * Director de la sociedad española de Aplicaciones Industriales y Sistemas de Control.
-* Presidente en Europa del Grupo de Jóvenes Profesionales (YP AG) del Instituto de Ingenieros Eléctricos y Electrónicos.
+* CandidatoPresidente en Europa del Grupo de Jóvenes Profesionales (YP AG) del Instituto de Ingenieros Eléctricos y Electrónicos.
 * Participante en concurso de televisión - "Saber y Ganar" - 14 programas.
 
 ## :computer: Tecnologias que conozco
